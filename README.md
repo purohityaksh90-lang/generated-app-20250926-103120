@@ -1,6 +1,6 @@
 # Clarity - Personal Expense Tracker
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/purohityaksh90-lang/generated-app-20250926-103120)
 
 Clarity is a visually stunning, minimalist personal expense tracking application designed for simplicity and elegance. It enables users to effortlessly log their income and expenses, categorize transactions, and gain clear insights into their spending habits through beautiful, interactive visualizations. The application features a central dashboard for a quick overview, a detailed transaction history with search and filter capabilities, and a streamlined process for adding new entries. The entire experience is designed to be intuitive, fast, and delightful, transforming the chore of expense tracking into a satisfying activity.
 
@@ -81,7 +81,7 @@ This project is configured for seamless deployment to the Cloudflare network.
 
 You can deploy your own version of this application with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/purohityaksh90-lang/generated-app-20250926-103120)
 
 ### Manual Deployment with Wrangler
 
